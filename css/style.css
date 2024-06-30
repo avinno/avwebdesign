@@ -196,10 +196,10 @@ footer {
     gap: 1rem;
     width: 100%;
   }
-	h1 {
-		font-size: 30px;
-	}
-	p {
-		font-size: 15px;
-	}
+  h1 {
+    font-size: 30px;
+  }
+  p {
+    font-size: 15px;
+  }
 }
